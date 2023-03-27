@@ -33,4 +33,5 @@ public class Slytherin extends Hogwarts{
     public int getLustForPower() {
         return lustForPower;
     }
+
 }

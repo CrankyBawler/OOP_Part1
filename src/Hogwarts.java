@@ -20,4 +20,10 @@ public class Hogwarts {
     public int getTransgress() {
         return transgress;
     }
+
+    public static int randomDiceNumber() {
+        return (int) (Math.random() * 100);
+    }
+
+
 }

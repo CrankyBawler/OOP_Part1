@@ -21,4 +21,5 @@ public class Griffindor extends Hogwarts {
     public int getBravery() {
         return bravery;
     }
+
 }

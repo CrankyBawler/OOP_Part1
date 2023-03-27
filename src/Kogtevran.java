@@ -27,4 +27,5 @@ public class Kogtevran extends Hogwarts{
     public int getCreation() {
         return creation;
     }
+
 }
