@@ -16,16 +16,31 @@ public class Kogtevran extends Hogwarts{
         return smart;
     }
 
+    public void setSmart(int smart) {
+        this.smart = smart;
+    }
+
     public int getWise() {
         return wise;
+    }
+
+    public void setWise(int wise) {
+        this.wise = wise;
     }
 
     public int getWitty() {
         return witty;
     }
 
+    public void setWitty(int witty) {
+        this.witty = witty;
+    }
+
     public int getCreation() {
         return creation;
     }
 
+    public void setCreation(int creation) {
+        this.creation = creation;
+    }
 }
